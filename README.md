@@ -1,4 +1,4 @@
-# Sales-Financial-Insights-AtliQ-Hardware
+# Sales-Insights-AtliQ-Hardware |Power BI|SQL|Excel|
 AtliQ Hardware
 
 Is a company which supplies computer hardware and peripherals to many clients across India;
